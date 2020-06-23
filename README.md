@@ -1,8 +1,8 @@
-# [MoviePlus](moviepluss.herokuapp.com/)
+# [MoviePlus](https://moviepluss.herokuapp.com/)
 
 MoviePlus is a movie application built with React and Django and hosted on Heroku. Django Rest Framework is used to fetch the data provided by the MovieDB API which is then passed on to the frontend framework. 
 
-[Live Demo](moviepluss.herokuapp.com/)
+[Live Demo](https://moviepluss.herokuapp.com/)
 
 # Features of this application:
 - View popular/upcomming movies list
@@ -14,7 +14,7 @@ MoviePlus is a movie application built with React and Django and hosted on Herok
 <div align="center">
   <br>
   <br>
-  <img src="images/Screenshot_1.png" alt="sampadak" width="95%">
+  <img src="images/Screenshot_1.png" alt="MoviePlus" width="95%">
   <br>
   <br>
 </div>
